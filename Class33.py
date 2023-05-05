@@ -81,5 +81,9 @@ actions.drag_and_drop(sourceelement,targetelement)
 # JIRA
 # GIT hub => version control
 # central repository => server where we can place our source code so every one will get access
-# SVN , TFS(Team foundation server) ,Git hub , Bit Bucket ,Azure devops
+# Git hub , Bit Bucket ,Azure devops
 # Git hub => open source version control
+# Control from local by using github for desktop GUI tool
+# steps to follow => Clone repository , provide local path
+# now if we perform any changes in the file , it will show in change list
+
